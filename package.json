@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "class-transformer": "0.2.3",
+    "class-validator": "0.11.0",
+    "mysql": "2.18.1",
+    "typeorm": "^0.3.10",
+    "typescript": "^4.8.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.8.2"
+  },
+  "scripts": {
+    "transpile": "tsc"
+  }
+}
